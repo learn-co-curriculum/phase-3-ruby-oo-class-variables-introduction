@@ -1,4 +1,4 @@
-# Introduction to Class Variables and Methods in Ruby
+# Introduction to Class Variables and Methods
 
 Classes are like the skeleton from which individual objects are created. When
 you make use of classes you can reuse code rather than writing similar code over
