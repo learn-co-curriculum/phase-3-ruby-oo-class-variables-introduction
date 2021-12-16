@@ -27,4 +27,4 @@ however, this is not the case. In this section, we'll distinguish the difference
 between class methods and variables and when to use them.
 
 If at any point you need a refresher on different types of Ruby variables,
-[check this blog post](http://rubylearning.com/satishtalim/ruby_names.html).
+[check out this resource](https://www.tutorialspoint.com/ruby/ruby_variables.htm).
